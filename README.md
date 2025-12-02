@@ -12,7 +12,7 @@ A step-by-step journey from basic gates to a full microcomputer in VHDL
 ---
 
 ### Phase 1: Basic Logic Gates (1–20)
-- [ ] 001_wire.vhd – Single-bit wire
+- [x] 001_wire.vhd – Single-bit wire
 - [ ] 002_wire_4bit.vhd – 4-bit wire
 - [ ] 003_not_gate.vhd – 1-bit NOT gate
 - [ ] 004_not_gate_4bit.vhd – 4-bit NOT
