@@ -19,19 +19,19 @@ A step-by-step journey from basic gates to a full microcomputer in VHDL
 - [x] 005_and_gate.vhd – 2-input AND
 - [x] 006_and_gate_4bit.vhd – 4-bit AND (bitwise)
 - [x] 007_or_gate.vhd – 2-input OR
-- [ ] 008_or_gate_8bit.vhd – 8-bit OR (bitwise)
-- [ ] 009_nand_gate.vhd – 2-input NAND
-- [ ] 010_nand_gate_16bit.vhd – 16-bit NAND
-- [ ] 011_nor_gate.vhd – 2-input NOR
-- [ ] 012_nor_gate_4bit.vhd – 4-bit NOR
+- [x] 008_or_gate_8bit.vhd – 8-bit OR (bitwise)
+- [x] 009_nand_gate.vhd – 2-input NAND
+- [x] 010_nand_gate_16bit.vhd – 16-bit NAND
+- [x] 011_nor_gate.vhd – 2-input NOR
+- [x] 012_nor_gate_4bit.vhd – 4-bit NOR
 - [ ] 013_xor_gate.vhd – 2-input XOR
 - [ ] 014_xor_gate_8bit.vhd – 8-bit XOR
 - [ ] 015_xnor_gate.vhd – 2-input XNOR
 - [ ] 016_xnor_gate_4bit.vhd – 4-bit XNOR
 - [ ] 017_buffer_gate.vhd – Single buffer
 - [ ] 018_buffer_8bit.vhd – 8-bit buffer
-- [ ] 019_tri_buffer.vhd – Tristate buffer with enable
-- [ ] 020_tri_buffer_4bit.vhd – 4-bit tristate buffer
+- [x] 019_tri_buffer.vhd – Tristate buffer with enable
+- [x] 020_tri_buffer_4bit.vhd – 4-bit tristate buffer
 
 ### Phase 2: Multi-bit Operations & Vectors (21–40)
 - [ ] 021_generic_width_wire.vhd – Generic N-bit wire
