@@ -24,8 +24,8 @@ A step-by-step journey from basic gates to a full microcomputer in VHDL
 - [x] 010_nand_gate_16bit.vhd – 16-bit NAND
 - [x] 011_nor_gate.vhd – 2-input NOR
 - [x] 012_nor_gate_4bit.vhd – 4-bit NOR
-- [ ] 013_xor_gate.vhd – 2-input XOR
-- [ ] 014_xor_gate_8bit.vhd – 8-bit XOR
+- [x] 013_xor_gate.vhd – 2-input XOR
+- [x] 014_xor_gate_8bit.vhd – 8-bit XOR
 - [ ] 015_xnor_gate.vhd – 2-input XNOR
 - [ ] 016_xnor_gate_4bit.vhd – 4-bit XNOR
 - [ ] 017_buffer_gate.vhd – Single buffer
@@ -34,13 +34,13 @@ A step-by-step journey from basic gates to a full microcomputer in VHDL
 - [x] 020_tri_buffer_4bit.vhd – 4-bit tristate buffer
 
 ### Phase 2: Multi-bit Operations & Vectors (21–40)
-- [ ] 021_generic_width_wire.vhd – Generic N-bit wire
+- [x] 021_generic_width_wire.vhd – Generic N-bit wire
 - [ ] 022_generic_not.vhd – Generic NOT
 - [ ] 023_generic_and.vhd – Generic AND
 - [ ] 024_generic_or.vhd – Generic OR
 - [ ] 025_generic_xor.vhd – Generic XOR
-- [ ] 026_bit_slicing.vhd – Extract bit 3 from 8-bit
-- [ ] 027_bit_concatenation.vhd – Concatenate two 4-bit → 8-bit
+- [x] 026_bit_slicing.vhd – Extract bit 3 from 8-bit
+- [x] 027_bit_concatenation.vhd – Concatenate two 4-bit → 8-bit
 - [ ] 028_bit_reversal_4bit.vhd – Reverse 4-bit vector
 - [ ] 029_bit_reversal_8bit.vhd – Reverse 8-bit vector
 - [ ] 030_byte_swapping.vhd – Swap upper/lower 4 bits
