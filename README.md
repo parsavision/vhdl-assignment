@@ -36,9 +36,9 @@ A step-by-step journey from basic gates to a full microcomputer in VHDL
 ### Phase 2: Multi-bit Operations & Vectors (21–40)
 - [x] 021_generic_width_wire.vhd – Generic N-bit wire
 - [x] 022_generic_not.vhd – Generic NOT
-- [ ] 023_generic_and.vhd – Generic AND
-- [ ] 024_generic_or.vhd – Generic OR
-- [ ] 025_generic_xor.vhd – Generic XOR
+- [x] 023_generic_and.vhd – Generic AND
+- [x] 024_generic_or.vhd – Generic OR
+- [x] 025_generic_xor.vhd – Generic XOR
 - [x] 026_bit_slicing.vhd – Extract bit 3 from 8-bit
 - [x] 027_bit_concatenation.vhd – Concatenate two 4-bit → 8-bit
 - [ ] 028_bit_reversal_4bit.vhd – Reverse 4-bit vector
