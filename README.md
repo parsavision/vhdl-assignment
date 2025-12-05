@@ -26,16 +26,16 @@ A step-by-step journey from basic gates to a full microcomputer in VHDL
 - [x] 012_nor_gate_4bit.vhd – 4-bit NOR
 - [x] 013_xor_gate.vhd – 2-input XOR
 - [x] 014_xor_gate_8bit.vhd – 8-bit XOR
-- [ ] 015_xnor_gate.vhd – 2-input XNOR
-- [ ] 016_xnor_gate_4bit.vhd – 4-bit XNOR
-- [ ] 017_buffer_gate.vhd – Single buffer
-- [ ] 018_buffer_8bit.vhd – 8-bit buffer
+- [x] 015_xnor_gate.vhd – 2-input XNOR
+- [x] 016_xnor_gate_4bit.vhd – 4-bit XNOR
+- [x] 017_buffer_gate.vhd – Single buffer
+- [x] 018_buffer_8bit.vhd – 8-bit buffer
 - [x] 019_tri_buffer.vhd – Tristate buffer with enable
 - [x] 020_tri_buffer_4bit.vhd – 4-bit tristate buffer
 
 ### Phase 2: Multi-bit Operations & Vectors (21–40)
 - [x] 021_generic_width_wire.vhd – Generic N-bit wire
-- [ ] 022_generic_not.vhd – Generic NOT
+- [x] 022_generic_not.vhd – Generic NOT
 - [ ] 023_generic_and.vhd – Generic AND
 - [ ] 024_generic_or.vhd – Generic OR
 - [ ] 025_generic_xor.vhd – Generic XOR
