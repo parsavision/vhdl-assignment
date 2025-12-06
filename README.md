@@ -3,7 +3,7 @@
 A step-by-step journey from basic gates to a full microcomputer in VHDL  
 **Goal:** Complete all 300 exercises and tick them off one by one!
 
-> **Progress: 0 / 300** completed
+> **Progress: 29 / 300** completed
 
 ## How to Use
 - When an exercise + its testbench is finished and committed → change `- [ ]` → `- [x]`
@@ -41,8 +41,8 @@ A step-by-step journey from basic gates to a full microcomputer in VHDL
 - [x] 025_generic_xor.vhd – Generic XOR
 - [x] 026_bit_slicing.vhd – Extract bit 3 from 8-bit
 - [x] 027_bit_concatenation.vhd – Concatenate two 4-bit → 8-bit
-- [ ] 028_bit_reversal_4bit.vhd – Reverse 4-bit vector
-- [ ] 029_bit_reversal_8bit.vhd – Reverse 8-bit vector
+- [x] 028_bit_reversal_4bit.vhd – Reverse 4-bit vector
+- [x] 029_bit_reversal_8bit.vhd – Reverse 8-bit vector
 - [ ] 030_byte_swapping.vhd – Swap upper/lower 4 bits
 - [ ] 031_sign_extend_4to8.vhd – Sign-extend 4→8 bit
 - [ ] 032_zero_extend_4to8.vhd – Zero-extend 4→8 bit
